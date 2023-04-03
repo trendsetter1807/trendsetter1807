@@ -47,6 +47,6 @@ Hi,I'm Pratik Tripathy🙌 a sophomore from IIIT BHUBANESWAR, a MERN STACK WEB D
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
 
 
-![Pratik's github stats](https://github-readme-streak-stats.herokuapp.com/?user=theconqueror-07)
+![Pratik's github stats](https://github-readme-streak-stats.herokuapp.com/?user=trendsetter1807)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trendsetter1807&layout=compact&theme=vision-friendly-dark)
 
